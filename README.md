@@ -97,10 +97,10 @@ export default app;
 After setting up Firebase and environment variables, start the project with:
 
 ```bash
-npm start
+npm run dev
 ```
 
-The app will be available at [http://localhost:3000](http://localhost:3000).
+The app will be available at [http://localhost:3000](http://localhost:5173).
 
 ---
 
